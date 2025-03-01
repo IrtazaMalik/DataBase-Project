@@ -1,10 +1,10 @@
 # DataBase-Project (Welcome Management System)
 
-##Overview
+## Overview
 
 The Welcome Management System is a web-based application built using Node.js, Express.js, and MySQL. It provides user authentication and various functionalities for admins, students, and teachers to manage event registrations, meal preferences, performance proposals, and voting.
 
-##Features
+## Features
 
 User Authentication
 
@@ -46,7 +46,7 @@ Retrieves the highest voted menu and performance suggestions.
 
 Tech Stack
 
-##Backend: Node.js, Express.js
+## Backend: Node.js, Express.js
 
 Database: MySQL
 
@@ -62,14 +62,14 @@ Node.js
 
 MySQL
 
-##Setup Steps
+## Setup Steps
 
 Clone the repository:
 
 git clone https://github.com/your-repo-url.git
 cd welcome-management-system
 
-##Install dependencies:
+## Install dependencies:
 
 npm install
 
